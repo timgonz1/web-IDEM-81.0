@@ -11,9 +11,10 @@
     
     body{
     
-    background-image: url("fondo.jpg");
+    background-image: url("paisaje-1.webp");
     
     background-repeat: no-repeat;
+    background-size: cover ;
     
     }
     
@@ -37,7 +38,7 @@
     
     left: 180px;
     
-    background-image: url("medellin.jpeg");
+    background-image: url("paisaje-1.webp");
     
     }
     
@@ -62,3 +63,54 @@
      
     
     }
+
+    .contenido{
+
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+        
+         
+        
+        .imagentecno{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("paisaje-1.webp");
+        
+        }
+        
+        
+        
+        .textotecno{
+        
+        text-align: justify;
+        
+        color: azure;
+        
+        font-size: 20px;
+        
+        
+        
+        }
+        
