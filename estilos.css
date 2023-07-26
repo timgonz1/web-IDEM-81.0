@@ -1,116 +1,65 @@
 *{
 
-    padding: 0px;
-    
-    margin: 0px;
-    
-    }
-    
-    
-    
-    
-    body{
-    
-    background-image: url("paisaje-1.webp");
-    
-    background-repeat: no-repeat;
-    background-size: cover ;
-    
-    }
-    
-    
-    
-    .img{
-    
-    position: relative;
-    
-     
-    
-    width: 190px;
-    
-    height: 190px;
-    
-    border-radius: 10px;
-    
-    background-repeat: no-repeat;
-    
-     
-    
-    left: 180px;
-    
-    background-image: url("paisaje-1.webp");
-    
-    }
-    
-    .contenedor{
-    
-     
-    
-    height: 230px;
-    
-     
-    
-    }
-    
-    .texto{
-    
-    font-size: 40px;
-    
-    text-align: justify;
-    
-    color: brown;
-    
-     
-    
-    }
+padding: 0px;
 
-    .contenido{
+margin: 0px;
 
-        height: 280px;
-        
-        width: 100%;
-        
-        position: absolute;
-        
-        top: 410px;
-        
-         
-        
-        }
-        
-         
-        
-        .imagentecno{
-        
-         
-        
-        background-repeat: no-repeat;
-        
-        float:left;
-        
-        height: 200px;
-        
-        width: 260px;
-        
-        margin-left: 5px;
-        
-        margin-right:5px;
-        
-        background-image: url("paisaje-1.webp");
-        
-        }
-        
-        
-        
-        .textotecno{
-        
-        text-align: justify;
-        
-        color: azure;
-        
-        font-size: 20px;
-        
-        
-        
-        }
-        
+}
+
+
+
+
+body{
+
+background-image: url("fondo-galaxia-degradado_23-2148988608.avif");
+
+background-repeat: no-repeat ;
+
+
+}
+
+
+
+.img{
+
+position: relative;
+
+ 
+
+width: 190px;
+
+height: 190px;
+
+border-radius: 10px;
+
+background-repeat: no-repeat;
+
+ 
+
+left: 300px;
+
+background-image: url("fondo-galaxia-degradado_23-2148988608.avif");
+
+}
+
+.contenedor{
+
+ 
+
+height: 230px;
+
+ 
+
+}
+
+.texto{
+
+font-size: 40px;
+
+text-align: justify;
+
+color: brown;
+
+ 
+
+}
